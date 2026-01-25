@@ -18,7 +18,7 @@ text-shadow: 0 0 10px #5C6AC4, 0 0 20px;
   -webkit-backdrop-filter: blur(5px);        /* Required for some browsers like Safari */
   padding: 20px;
   border-radius: 5px;
-  border: 1.5px solid #41434a;
+  border: 2px linaer-gradiant (to right, #41434a, #34a1eb;
   box-shadow: 0 4px 30px black;
   height: 100px;
   witgh: 40px;
