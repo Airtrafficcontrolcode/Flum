@@ -6,26 +6,7 @@ body {
   
 }
 
-.title {
-  color: #13eb50;
-  text-shadow: 0 0 10px #5C6AC4, 0 0 20px;
-}
-
-.main {
-  background-color: rgba(0, 0, 0, 0);
-  backdrop-filter: blur(15px);
-  -webkit-backdrop-filter: blur(15px);
-  padding: 20px;
-  border-radius: 15px;
-  border: 1px solid rgba(255, 255, 255, 0.2);
-  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.5);
-  height: 40%;
-  width: 50%;
-  margin: auto;
-}
-
-.head {
-  color: #1260de;
-  text-shadow: 0 0 10px #de7412;
-  margin-top: 10px;
+.qatarimg {
+position: relative;
+	top: 60px;
 }
